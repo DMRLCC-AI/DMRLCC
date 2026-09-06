@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>DMRC Cultural Club - Member Profile</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="background-shape shape1"></div>
+    <div class="background-shape shape2"></div>
+
+    <main class="profile-card">
+
+        <!-- Header -->
+        <header class="header">
+
+            <img src="logo.png" alt="DMRC Cultural Club Logo" class="club-logo">
+
+            <h1>DMRC Cultural Club</h1>
+
+            <p class="subtitle">Official Member Profile</p>
+
+        </header>
+
+
+        <!-- Main Profile -->
+        <section class="profile-content">
+
+            <!-- Left Side -->
+            <div class="left-section">
+
+                <div class="profile-image-box">
+                    <img src="profile.jpg" alt="Member Photo">
+                </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+            <!-- Right Side -->
+            <div class="details">
+
+                <div class="detail full">
+                    <span>Full Name</span>
+                    <h2>SATTYAZIT SHARMA</h2>
+                </div>
+
+
+                <div class="two-column">
+
+                    <div class="detail">
+                        <span>Position / Role</span>
+                        <strong>President</strong>
+                    </div>
+
+                    <div class="detail">
+                        <span>Group</span>
+                        <strong>Science</strong>
+                    </div>
+
+                </div>
+
+
+                <div class="detail full">
+                    <span>College Name</span>
+
+                    <strong>
+                        Dr. Mahabubur Rahman Molla<br>
+                        College DHAKA
+                    </strong>
+                </div>
+
+
+                <div class="three-column">
+
+                    <div class="detail">
+                        <span>Member ID</span>
+                        <strong>2319</strong>
+                    </div>
+
+                    <div class="detail">
+                        <span>Joining Year</span>
+                        <strong>25-26</strong>
+                    </div>
+
+                    <div class="detail">
+                        <span>Blood Group</span>
+                        <strong>O+</strong>
+                    </div>
+
+                </div>
+
+
+                <div class="two-column">
+
+                    <div class="detail">
+                        <span>Location</span>
+                        <strong>Basaboo, Dhaka</strong>
+                    </div>
+
+                    <div class="detail">
+                        <span>Social ID</span>
+                        <strong>Polock Sharma</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- Bottom -->
+        <section class="bottom-section">
+
+         <div>
+           <span>Unique Verification Code : </span>
+           <strong>V123455677230</strong>
+                </div>
+
+            </div>
+
+
+            <div class="signature">
+
+                <div class="signature-line">
+                    <span></span>
+                </div>
+
+                <p>Digital Authority Signature</p>
+
+            </div>
+
+        </section>
+
+
+        <!-- Footer -->
+        <footer>
+
+            <p>
+                © 2025-26 DMRC Cultural Club - Developed By Ariful Islam
+            </p>
+
+            <span>
+                Official Member Verification Portal
+            </span>
+
+        </footer>
+
+    </main>
+
+</body>
+</html>
